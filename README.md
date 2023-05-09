@@ -1,1 +1,2 @@
 # Software-Assisted_Depression_Detection_Prevention
+Proposed application for reducing and preventinf depression
